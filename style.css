@@ -649,7 +649,23 @@ span{
     padding-bottom: 16px;
 }
 
+.fenix {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
+.fenix img {
+    height: 54px;
+    margin: auto;
+}
+
+.fenix p {
+    color: var(--white-color);
+    font-weight: bold;
+    font-size: 12px;
+}
 
 .contact{
     padding: 10rem 5rem;
