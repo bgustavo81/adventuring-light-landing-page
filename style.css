@@ -67,6 +67,10 @@ body{
     margin-right: auto;
 }
 
+.logo img {
+    margin-right: 4px;
+}
+
 .navbar a{
     position: relative;
     font-size: 1.7rem;
